@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Riku Kobayashi, and I belong to EEIC of UT.
 <!--
 **Riku0413/Riku0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
