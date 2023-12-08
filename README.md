@@ -1,17 +1,29 @@
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riku0413&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Riku0413&show_icons=true" />
+</p>
+<p>
+  <img alt="github stats" height="80px" src="https://github-profile-trophy.vercel.app/?username=Riku0413&theme=onedark&column=8" />
+</p>
+
 ### Hi there 👋
 
-My name is Riku Kobayashi, and I belong to EEIC of UT.
-<!--
-**Riku0413/Riku0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+初めまして、東京大学工学部の3年生です。
+簡単な自己紹介を書きます。
 
-Here are some ideas to get you started:
+> 所属：東京大学工学部電子情報工学科
+> 
+> サークル：UTTC
+> 
+> 趣味：旅行, サッカー, アニメ
+> 
+> コーディング歴：
+> - Python：2022年2月〜
+> - C：2022年10月〜
+> - TypeScript：2023年9月〜
+> - Go：2023年9月〜
+> 
+> 興味：アプリ開発、統計、AI、無線通信
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+まだ初心者ですけど、これからプロダクト作っていきます。
+簡単なナレッジベース(Webアプリ)だけ作成しました！
