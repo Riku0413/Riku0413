@@ -25,6 +25,6 @@
 まだまだ初心者ですけど、Webやデータを触って遊んでます。
 簡単なナレッジベースやデータの可視化サイトを作ってみました！
 
-[スタバの自作サイト](https://starbucks-git-develop-riku0413s-projects.vercel.app/?_vercel_share=2oSXyc2xH6tJqpvL4OyHwNqCKYH9UeGh) (画面サイズはモバイル想定です)
+[スタバの自作サイト](https://starbucks-git-develop-riku0413s-projects.vercel.app/?_vercel_share=TX1blWAn2gp9VIPVmfnwWNB2fD7eM8sx) (画面サイズはモバイル想定です)
 
 プロフィール画像はStable Diffusionのファインチューニングで、マルチーズと金沢駅を合成して作ってます。
